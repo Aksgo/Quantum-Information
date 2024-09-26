@@ -7,4 +7,5 @@ This repository includes some of the qauntum computing operations and algorithms
   <li>Single Qubit Coding</li>
   <li>Multiple System and Tensor Product operation</li>
   <li>QuantumCircuit Class</li>
+  <li>Quantum Teleportation via the phenomenon of Quantum Entanglement</li>
 </ul>
