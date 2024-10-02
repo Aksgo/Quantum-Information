@@ -17,3 +17,5 @@ This repository includes some of the qauntum computing operations and algorithms
   <li>Here is the result of circuit for transferring qubit in (1 0)<sup>T</sup> state<br><br><img src="asset/teleportation-qubit-0.png"></li>
   <li>Here is the result of circuit for transferring qubit in (0 1)<sup>T</sup> state<br><br><img src="asset/teleportation-qubit-1.png"></li>
 </ul>
+<h2>Super Dense Coding</h2>
+<p>While teleportation is used for transferring qubits, super dense coding transfers two classical bits via the use of entangled bits</p>
