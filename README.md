@@ -18,4 +18,10 @@ This repository includes some of the qauntum computing operations and algorithms
   <li>Here is the result of circuit for transferring qubit in (0 1)<sup>T</sup> state<br><br><img src="asset/teleportation-qubit-1.png"></li>
 </ul>
 <h2>Super Dense Coding</h2>
-<p>While teleportation is used for transferring qubits, super dense coding transfers two classical bits via the use of entangled bits</p>
+<p>While teleportation is used for transferr1ing qubits, super dense coding transfers two classical bits via the use of entangled bits</p>
+<br>
+
+1. Below is a sample of output where the first two bits are the input value of classical bits and the last two bits are the output measured of the final state of the system.
+2. The circuit is randomly tried for all the four possible two bit combination (so we received four outputs).
+3. And we can observe that last two bits are always the same as the first two means the information is correctly transferred.
+<img src = "asset/super-dense-coding-01.png">
